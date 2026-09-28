@@ -1,0 +1,196 @@
+﻿Descargando datos...
+Cargando...
+===================================
+      AVENTURA FRUTAL
+===================================
+¿Tiene progreso guardado? (si/no): SI
+Partida cargada correctamente
+
+===== MENU =====
+1. Jugar
+2. Inventario
+3. Tienda
+4. Opciones
+5. Logros
+6. Salir
+Seleccione una opcion: 1
+
+===== NIVEL 1 =====
+Bosque Frutal
+Encuentra frutas ocultas
+Fruta recogida: MANZANA
+¿Ganaste el nivel? (si/no): SI
+Nivel completado
+
+===== NIVEL 2 =====
+Cueva Dulce
+Esquiva obstaculos rapidamente
+Fruta recogida: PERA
+¿Ganaste el nivel? (si/no): NO
+Vidas restantes: 2
+
+===== NIVEL 1 =====
+Bosque Frutal
+Encuentra frutas ocultas
+Fruta recogida: PERA
+¿Ganaste el nivel? (si/no): SI
+Nivel completado
+
+===== NIVEL 2 =====
+Cueva Dulce
+Esquiva obstaculos rapidamente
+Fruta recogida: UVA
+¿Ganaste el nivel? (si/no): SI
+VICTORIA!!
+Has completado el juego.
+Pantalla de victoria
+
+===== MENU =====
+1. Jugar
+2. Inventario
+3. Tienda
+4. Opciones
+5. Logros
+6. Salir
+Seleccione una opcion: 2
+
+===== INVENTARIO =====
+Frutas: ['MANZANA', 'PERA', 'PERA', 'UVA']
+Objetos especiales: []
+Monedas: 50
+
+===== MENU =====
+1. Jugar
+2. Inventario
+3. Tienda
+4. Opciones
+5. Logros
+6. Salir
+Seleccione una opcion: 2
+
+===== INVENTARIO =====
+Frutas: ['MANZANA', 'PERA', 'PERA', 'UVA']
+Objetos especiales: []
+Monedas: 50
+
+===== MENU =====
+1. Jugar
+2. Inventario
+3. Tienda
+4. Opciones
+5. Logros
+6. Salir
+Seleccione una opcion: 3
+
+===== TIENDA =====
+Monedas: 50
+1. Skin 2 (20 monedas)
+2. Skin 3 (30 monedas)
+3. Ver skins
+4. Volver
+Seleccione: 2
+Skin 3 desbloqueada
+
+===== TIENDA =====
+Monedas: 20
+1. Skin 2 (20 monedas)
+2. Skin 3 (30 monedas)
+3. Ver skins
+4. Volver
+Seleccione: 4
+
+===== MENU =====
+1. Jugar
+2. Inventario
+3. Tienda
+4. Opciones
+5. Logros
+6. Salir
+Seleccione una opcion: 5
+
+===== LOGROS =====
+- Nivel 1 completado
+- Nivel 1 completado
+- Nivel 2 completado
+
+===== MENU =====
+1. Jugar
+2. Inventario
+3. Tienda
+4. Opciones
+5. Logros
+6. Salir
+Seleccione una opcion: 4
+
+===== OPCIONES =====
+1. Sonido
+2. Musica
+3. Efectos
+4. Vibracion
+5. Dificultad
+6. Idioma
+7. Guardar progreso
+8. Volver
+Seleccione: 5
+Seleccione (Facil, Normal, Dificil): DIFICIL
+
+===== OPCIONES =====
+1. Sonido
+2. Musica
+3. Efectos
+4. Vibracion
+5. Dificultad
+6. Idioma
+7. Guardar progreso
+8. Volver
+Seleccione: 6
+Seleccione (Español, Ingles): ESA
+
+===== OPCIONES =====
+1. Sonido
+2. Musica
+3. Efectos
+4. Vibracion
+5. Dificultad
+6. Idioma
+7. Guardar progreso
+8. Volver
+Seleccione: 6
+Seleccione (Español, Ingles): ESPAOL
+
+===== OPCIONES =====
+1. Sonido
+2. Musica
+3. Efectos
+4. Vibracion
+5. Dificultad
+6. Idioma
+7. Guardar progreso
+8. Volver
+Seleccione: 7
+Progreso guardado.
+
+===== OPCIONES =====
+1. Sonido
+2. Musica
+3. Efectos
+4. Vibracion
+5. Dificultad
+6. Idioma
+7. Guardar progreso
+8. Volver
+Seleccione: 8
+
+===== MENU =====
+1. Jugar
+2. Inventario
+3. Tienda
+4. Opciones
+5. Logros
+6. Salir
+Seleccione una opcion: 6
+¿Esta seguro? (si/no): SI
+Gracias por jugar
+
+
+** Process exited - Return Code: 0 **
