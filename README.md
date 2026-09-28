@@ -18,6 +18,8 @@ Implementé un sistema de personajes con diferentes habilidades, un inventario p
 Asimismo, programé los niveles del juego, las mecánicas de recolección de frutas, la obtención de monedas, el desbloqueo de nuevos niveles y las condiciones de victoria o derrota (Game Over). Finalmente, añadí opciones de personalización como sonido, música, vibración, idioma y dificultad, logrando un juego completo, dinámico e interactivo que integra varios conceptos fundamentales de programación.
 
  # Fase 4 presentacion 
+
+ Se obtuvo un juego funcional que permite al usuario explorar niveles, recolectar frutas, obtener recompensas y desbloquear contenido, demostrando la aplicación práctica de los conceptos aprendidos en programación.Este proyecto permitió fortalecer conocimientos en Python, especialmente en el uso de clases, funciones, condicionales y ciclos, además de desarrollar habilidades para diseñar la lógica de un programa mediante diagramas de flujo y convertirla en una aplicación interactiva.
  
 
 
