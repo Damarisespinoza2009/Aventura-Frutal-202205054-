@@ -13,8 +13,12 @@ También añadí los sistemas complementarios, como el inventario, donde se alma
 Para facilitar la comprensión visual, utilicé diferentes colores en las flechas para distinguir las decisiones correctas, los errores y la continuidad del proceso, permitiendo identificar fácilmente cada ruta dentro del funcionamiento general del juego.
 
 # Fase 3 Codigo 
+Para desarrollar Aventura Frutal, primero diseñé un diagrama de flujo para organizar la lógica y el recorrido del jugador dentro del juego. Después, programé el proyecto en Python utilizando programación orientada a objetos con clases, además de funciones, variables, listas, condicionales (if, elif, else), ciclos (while) y estructuras de control para gestionar cada acción del usuario.
+Implementé un sistema de personajes con diferentes habilidades, un inventario para almacenar frutas y objetos especiales, una tienda para comprar skins con las monedas obtenidas y un sistema de logros para registrar el progreso del jugador. También desarrollé un menú interactivo que permite iniciar una partida, cargar progreso, configurar opciones y acceder a las distintas funciones del juego.
+Asimismo, programé los niveles del juego, las mecánicas de recolección de frutas, la obtención de monedas, el desbloqueo de nuevos niveles y las condiciones de victoria o derrota (Game Over). Finalmente, añadí opciones de personalización como sonido, música, vibración, idioma y dificultad, logrando un juego completo, dinámico e interactivo que integra varios conceptos fundamentales de programación.
 
- fase 4 presentacion 
+ # Fase 4 presentacion 
+ 
 
 
 
